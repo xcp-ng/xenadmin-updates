@@ -11,5 +11,6 @@
 	<version value="8.0.0.24" name="XCP-ng Center 8.0.0" latest_cr="false" url="https://github.com/xcp-ng/xenadmin/releases/tag/v.8.0.0" timestamp="2019-05-11 19:43"></version>
 	<version value="8.0.1.26" name="XCP-ng Center 8.0.1" latest_cr="false" url="https://github.com/xcp-ng/xenadmin/releases/tag/v8.0.1.26" timestamp="2019-07-10 23:19"></version>
 	<version value="20.03.01.31" name="XCP-ng Center 20.03.01" latest_cr="false" url="https://github.com/xcp-ng/xenadmin/releases/tag/20.03.01.31" timestamp="2020-03-25 01:50"></version>
-	<version value="20.04.00.32" name="XCP-ng Center 20.04.00" latest_cr="true" latest="true" url="https://github.com/xcp-ng/xenadmin/releases/tag/v20.04.00.32" timestamp="2020-04-12 18:05"></version>
+	<version value="20.04.00.32" name="XCP-ng Center 20.04.00" latest_cr="false" url="https://github.com/xcp-ng/xenadmin/releases/tag/v20.04.00.32" timestamp="2020-04-12 18:05"></version>
+	<version value="20.04.01.33" name="XCP-ng Center 20.04.01" latest_cr="true" latest="true" url="https://github.com/xcp-ng/xenadmin/releases/tag/v20.04.01.33" timestamp="2020-12-11 17:14"></version>
 </xencenterversions>
